@@ -46,7 +46,7 @@ const Head = () => {
         [searchQuery] : json[1]
       }))
 
-      dispatch = useDispatch();
+      // dispatch = useDispatch();
   }
 
   
